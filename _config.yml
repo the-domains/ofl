@@ -1,0 +1,74 @@
+layout_spectrum: 0.1824900738182155
+typography_spectrum: 0.5656609662438715
+color:
+  brandColors:
+    - '#B0A6B1'
+    - '#372F2C'
+    - '#826650'
+    - '#FFFFFB'
+    - '#FDD598'
+  brandStrength: 0.0728964741579672
+  lightness: 0.6667873653669907
+  saturation: 0.3210123237031558
+  rhythmicContrast: 0.48555172196985913
+author:
+  name: >-
+    A Recess College Programme | Leadership is who you are … how you make things
+    happen … and make them happen through others
+  email: info@recesscollege.org
+  url: 'http://www.recesscollege.org'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8adadb7-9f69-40ec-b9c3-bc0998648bd4.png
+name: Our Future Leaders
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: for participants
+    id: 4a157a6c-b7fe-4bd5-b856-426e7e2ef9ae
+    type: content
+  - name: for sponsors
+    id: 161ff805-2583-417f-8972-047e7dbf8817
+    type: content
+  - name: background
+    id: 54114b4d-70cf-4eaf-b05c-955fdad0a143
+    type: content
+  - name: contact us
+    id: d497a7f9-fadb-4ad9-9020-b73f4080ebd4
+    type: content
+favicon: null
+title: Our Future Leaders
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee13e584-ba7c-438a-a55c-88b41be44f55.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee13e584-ba7c-438a-a55c-88b41be44f55.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: a seven day living lab on organisational life
+url: 'https://ourfutureleaders.eu'
+analytics:
+  google: UA-107226464-1
+github: true
