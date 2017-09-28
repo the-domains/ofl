@@ -4,8 +4,8 @@ description: >-
   The world of work is contradictory. It sends complex messages of what is
   required to the fast track entrant and those in the first phases of their
   career.
-dateModified: '2017-09-28T14:45:06.955Z'
-datePublished: '2017-09-28T14:45:08.522Z'
+dateModified: '2017-09-28T14:45:09.937Z'
+datePublished: '2017-09-28T14:45:10.414Z'
 title: FOR EMERGENT LEADERS
 author: []
 publisher: {}
