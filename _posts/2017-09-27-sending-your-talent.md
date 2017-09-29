@@ -4,8 +4,8 @@ description: >-
   Our organisations need future leaders who can learn to guide and lead with
   wisdom, perspective, organisational acumen and a healthy dose of ‘political
   savviness’.
-dateModified: '2017-09-29T09:26:55.473Z'
-datePublished: '2017-09-29T09:26:56.557Z'
+dateModified: '2017-09-29T09:53:42.858Z'
+datePublished: '2017-09-29T09:53:43.701Z'
 title: SENDING YOUR TALENT
 author: []
 publisher: {}
@@ -48,7 +48,7 @@ The OFL leadership programme was co-developed with the Dutch funding agency for 
 ## Next steps
 
 * Want to know more about the [Spring 2018 programme][0]?
-* Download the [OFL programme flyer][1]
+* View the [OFL programme flyer][1]
 * Arrange a conversation via info@recesscollege.org to find out more
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyz0U8qsgMABDUBfg" height="10" style=""></iframe>
