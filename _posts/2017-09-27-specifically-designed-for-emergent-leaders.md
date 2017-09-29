@@ -4,8 +4,8 @@ description: >-
   The world of work is contradictory. It sends complex messages of what is
   required to the fast track entrant and those in the first phases of their
   career.
-dateModified: '2017-09-29T09:23:36.560Z'
-datePublished: '2017-09-29T09:23:37.586Z'
+dateModified: '2017-09-29T09:25:08.491Z'
+datePublished: '2017-09-29T09:25:09.288Z'
 title: FOR EMERGENT LEADERS
 author: []
 publisher: {}
@@ -53,7 +53,7 @@ A focused personal de-briefing helps participants recognise what "happened" to t
 
 * Want to know more about the [Spring 2018 programme][0]?
 * Download the [OFL programme flyer][1] to read and share
-* [Contact us][2] to book or to talk to an Alumnus
+* [Contact us][2] Email us: info@recesscollege.org to book or to talk to an Alumnus
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyz0U8qsgMABDUBfg" height="10" style=""></iframe>
 
