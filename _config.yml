@@ -68,7 +68,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: a seven day living lab on organisational life
-url: 'https://ourfutureleaders.eu'
+url: 'http://ourfutureleaders.com'
 analytics:
   google: UA-107226464-1
 github: true
