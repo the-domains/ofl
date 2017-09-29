@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Jennifer Jones - AdministratorEmail: info@recesscollege.orgTelephone: +44 20
   7286 4535
-dateModified: '2017-09-29T09:52:29.111Z'
-datePublished: '2017-09-29T09:52:29.768Z'
+dateModified: '2017-09-29T09:52:30.089Z'
+datePublished: '2017-09-29T09:52:30.585Z'
 title: SIMPLY CURIOUS … OR MORE?
 author: []
 publisher: {}
