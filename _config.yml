@@ -72,3 +72,7 @@ url: 'https://ourfutureleaders.eu'
 analytics:
   google: UA-107226464-1
 github: true
+purpose:
+  - type: contact
+    url: 'mailto:info@recesscollege.org'
+    label: Contact us
