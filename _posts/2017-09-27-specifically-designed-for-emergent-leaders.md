@@ -4,8 +4,8 @@ description: >-
   The world of work is contradictory. It sends complex messages of what is
   required to the fast track entrant and those in the first phases of their
   career.
-dateModified: '2017-09-29T08:56:27.477Z'
-datePublished: '2017-09-29T08:56:28.478Z'
+dateModified: '2017-09-29T08:58:55.465Z'
+datePublished: '2017-09-29T08:58:56.344Z'
 title: FOR EMERGENT LEADERS
 author: []
 publisher: {}
@@ -51,7 +51,7 @@ A focused personal de-briefing helps participants recognise what "happened" to t
 
 ## Next steps
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwVzDEOwjAMQNE9p7AidaWIsUoCI0unsiNTTBtw7Kg1Esdvkf70hh9qcrc5r7CHAlQwM3CWT-cCwrzQK_q_mXarFlKhC_2wVKbDqOU8fB9vGi1eiVmb0xEnzOLBcJnIor-bVp8Gkif0-yS0mFxoa9oAcYooHQ" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzFkDEOwjAMAHdeYUVipaUTQmlgZGHqwIKE3GLSQBxHwRU8n8InWE-6G85O0S1sDO6ESUEFHklewFIIsJdpRiNBl0tIHpp6vYFcxBdkpp09z9pfXYswFrq1hjFEle1TmCTRnt7IOdJqEN51U3-nQdsDxSjLpkaPIRlQLJ60NReVbFxH6QrHOWIrdLb69avvmQ931WHb" height="150" style=""></iframe>
 
 * Want to know more about the [Spring 2018 programme][0]?
 * Contact us so you can talk to an Alumnus
