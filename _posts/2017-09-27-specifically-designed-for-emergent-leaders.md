@@ -4,8 +4,8 @@ description: >-
   The world of work is contradictory. It sends complex messages of what is
   required to the fast track entrant and those in the first phases of their
   career.
-dateModified: '2017-09-29T09:07:26.616Z'
-datePublished: '2017-09-29T09:07:27.554Z'
+dateModified: '2017-09-29T09:10:10.873Z'
+datePublished: '2017-09-29T09:10:11.762Z'
 title: FOR EMERGENT LEADERS
 author: []
 publisher: {}
@@ -51,13 +51,11 @@ A focused personal de-briefing helps participants recognise what "happened" to t
 
 ## Next steps
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytU1tv2jAYfe-vsCL1MSSwdoSOwLj2Ai1lBbo9Icd2YjeOHWynAX79HFAvU6WpmvaQL5-Ojj6f813ans6h6LQ92rABs-dOm8UKZgRohUKHGpPrC88zlLiJYriWMEOLqMakR7BbaKKoybjXTUJyU672w9GsfOrdzu9GrbzZYxg-XuulHFz7hdDsbrHom7I5SeojjZ_TuOlT2toghc5Vc3DV4_Py9svgceGiQan288l6s85-QjXmEzpYN8rVJBpuZssg7reeL1mdsFUW-duR2M-mfXQjrqVyo1UeXKYs9t3dg5-NtxK2ZA_9kvJq7gDEodah4wBtdpyETsmwoRd13z_95gBKWEJN6DTOzhyAoYGuIhAZhkMn8B3bmGNPOidt26GXUvdQwUTBnAIkuX3ekK0B2GWCM0HciEuUfihWd2yNgtvAWecRCgOMBKmQJcikIgBGsrAQJaANAVUkfptAWZY1rGQeyW0NyczTXpyKLEMiOC_zLa2fewtKThv-D4KI1jYZSM5JUkGu_WaFsnFcmEJV0JRATFRFu1fSmsiyCn3IFROJTRp-PbC_mO-IquU47mIe-g4wzFStm42n4EgFFREcaE7nPZS_VG17sNNte9btwfJQloJLiD_rcb-PcMnZ1yL1WdwM_oPHv3h6pb04qsD8T7DyU83MjhQDKDDQFCryZvDVUwYZN_KCiVh-Vwe96Ci2JlXSfSiiJ4JMOBKbgqldJX48tfH1NSsMqoTYnVwbmTudgRTGLhEoNNAS7GQBEBQgkjIFUlkuTytVFurxIhOFfqfomHmHrTtc-Mk_n_hu7y-DjU5ue_3hsh8nnzyruv_hEBrvr-o3TBGCeA" height="244" style=""></iframe>
-
 * Want to know more about the [Spring 2018 programme][0]?
-* Contact us so you can talk to an Alumnus
 * Download the [OFL programme flyer][1] to read and share
-* Or email us directy
-* <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyz0U8qsgMABDUBfg" height="10" style=""></iframe>
+* [Contact us][2] to book or to talk to an Alumnus
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyz0U8qsgMABDUBfg" height="10" style=""></iframe>
 
 ## Reviews
 
@@ -77,3 +75,4 @@ Past participants said about the programme:
 
 [0]: https://www.dropbox.com/s/fknmmcn85wpxh15/The%20Recess%20College%20-%20Our%20Future%20Leaders%20Programme%20Spring%202018%20flyer.pdf?dl=0 "OFL Spring 2018 flyer"
 [1]: https://www.dropbox.com/s/zzbdwli6uk0if78/The%20Recess%20College%20-%20Our%20Future%20Leaders%20Programme%20flyer.pdf?dl=0 "OFL Programme flyer"
+[2]: http://ourfutureleaders.com/contact-us/ "Contact Us"
