@@ -7,8 +7,8 @@ description: >-
   with some of the benefits of the Sabbatical in an earlier stage of their
   working lives for a competitive and enduring kick-start in organisational
   life.
-dateModified: '2017-09-29T09:49:21.887Z'
-datePublished: '2017-09-29T09:49:23.006Z'
+dateModified: '2017-09-29T09:49:38.904Z'
+datePublished: '2017-09-29T09:49:40.343Z'
 title: PROGRAMME BACKGROUND
 author: []
 publisher: {}
@@ -49,4 +49,4 @@ Our Future Leaders' experiential programme provides a unique learning opportunit
 
 OFL participants across disciplines initiated and developed an alumni group to continue their learning journey. Twice a year they organise events and invite staff from The Recess College to facilitate the learning.
 
-Additionally, several participants have sought training to become peer-facilitators at OFL programmes and events.
+Additionally, several participants have sought in-house training to become peer-facilitators at OFL programmes and events.
