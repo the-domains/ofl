@@ -4,8 +4,8 @@ description: >-
   The world of work is contradictory. It sends complex messages of what is
   required to the fast track entrant and those in the first phases of their
   career.
-dateModified: '2017-09-29T09:04:27.566Z'
-datePublished: '2017-09-29T09:04:28.685Z'
+dateModified: '2017-09-29T09:07:26.616Z'
+datePublished: '2017-09-29T09:07:27.554Z'
 title: FOR EMERGENT LEADERS
 author: []
 publisher: {}
@@ -51,7 +51,7 @@ A focused personal de-briefing helps participants recognise what "happened" to t
 
 ## Next steps
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytkkFr3DAQhe_5FYOgR693A2mWYHsbku5pISEp9FhkSbZVyxp1JNW7-fWVdsk2vYQcetBoeDyk9zFTSf0bhOHe1-yRE--JuwEEGqQiqH0AWWhrtFVFa1CMDCQPvCDFRdCyZusVay6qaFIxuvnObYCAMFqcYUJSwFuMSRoUVBwGUl3NhhCcvynLeZ4XktC1uF8InEpfdqOdJmHXV7PbD6ur8tugPl0un5RQ3qfmDo1RfZaKdB4ipbqNIVKWdopLRdn2SJggpimrz4607VNzuVyt09WZg6KFk91GmnrJIOhgVM0etjs4WSEb4WhjzVvJvb5albzZVGWiPSLf42wNcvlRxpeXVs5Gf47jUnfX6__A-A7T2fZKlEX3r5h58szSSCVwK8EPnNRfwDPTxLUJeKNth1_omFecwi6Q-s1zbH8qEeqv9lfUdMjht7tUz7-lYJx6FWr2I6BjzR3akJYIogePcMAIgltoEUdASl4z5lRJujVxstG_SXTqyuPWlWl_m4s_Mm_tyg" height="150" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytU1tv2jAYfe-vsCL1MSSwdoSOwLj2Ai1lBbo9Icd2YjeOHWynAX79HFAvU6WpmvaQL5-Ojj6f813ans6h6LQ92rABs-dOm8UKZgRohUKHGpPrC88zlLiJYriWMEOLqMakR7BbaKKoybjXTUJyU672w9GsfOrdzu9GrbzZYxg-XuulHFz7hdDsbrHom7I5SeojjZ_TuOlT2toghc5Vc3DV4_Py9svgceGiQan288l6s85-QjXmEzpYN8rVJBpuZssg7reeL1mdsFUW-duR2M-mfXQjrqVyo1UeXKYs9t3dg5-NtxK2ZA_9kvJq7gDEodah4wBtdpyETsmwoRd13z_95gBKWEJN6DTOzhyAoYGuIhAZhkMn8B3bmGNPOidt26GXUvdQwUTBnAIkuX3ekK0B2GWCM0HciEuUfihWd2yNgtvAWecRCgOMBKmQJcikIgBGsrAQJaANAVUkfptAWZY1rGQeyW0NyczTXpyKLEMiOC_zLa2fewtKThv-D4KI1jYZSM5JUkGu_WaFsnFcmEJV0JRATFRFu1fSmsiyCn3IFROJTRp-PbC_mO-IquU47mIe-g4wzFStm42n4EgFFREcaE7nPZS_VG17sNNte9btwfJQloJLiD_rcb-PcMnZ1yL1WdwM_oPHv3h6pb04qsD8T7DyU83MjhQDKDDQFCryZvDVUwYZN_KCiVh-Vwe96Ci2JlXSfSiiJ4JMOBKbgqldJX48tfH1NSsMqoTYnVwbmTudgRTGLhEoNNAS7GQBEBQgkjIFUlkuTytVFurxIhOFfqfomHmHrTtc-Mk_n_hu7y-DjU5ue_3hsh8nnzyruv_hEBrvr-o3TBGCeA" height="244" style=""></iframe>
 
 * Want to know more about the [Spring 2018 programme][0]?
 * Contact us so you can talk to an Alumnus
