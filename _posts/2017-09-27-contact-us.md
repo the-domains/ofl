@@ -1,8 +1,10 @@
 ---
 inFeed: true
-description: "Jennifer Jones - AdministratorEmail:\_info@recesscollege.orgTelephone: +44 20 7286 4535"
-dateModified: '2017-09-28T14:46:31.051Z'
-datePublished: '2017-09-28T14:46:31.652Z'
+description: >-
+  Jennifer Jones - AdministratorEmail: info@recesscollege.orgTelephone: +44 20
+  7286 4535
+dateModified: '2017-09-29T09:51:24.763Z'
+datePublished: '2017-09-29T09:51:26.133Z'
 title: SIMPLY CURIOUS … OR MORE?
 author: []
 publisher: {}
@@ -21,7 +23,7 @@ _type: Article
 ## Contact us
 
 Jennifer Jones - Administrator  
-Email: [info@recesscollege.org][0]  
+Email: info@recesscollege.org  
 Telephone: +44 20 7286 4535
 
 The Recess College  
@@ -34,6 +36,6 @@ United Kingdom
 
 ### _Credit_
 
-The photos are from Guy Taplin's work
+The photos are from [Guy Taplin's wor][0]k
 
-[0]: mailto:info@recesscollege.org
+[0]: https://messums.com/artists/view/45/Guy_Taplin
