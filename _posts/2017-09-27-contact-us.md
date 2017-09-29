@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Jennifer Jones - AdministratorEmail: info@recesscollege.orgTelephone: +44 20
   7286 4535
-dateModified: '2017-09-29T09:52:20.346Z'
-datePublished: '2017-09-29T09:52:21.049Z'
+dateModified: '2017-09-29T09:52:29.111Z'
+datePublished: '2017-09-29T09:52:29.768Z'
 title: SIMPLY CURIOUS … OR MORE?
 author: []
 publisher: {}
@@ -36,6 +36,6 @@ United Kingdom
 
 ### _Credit_
 
-The photos are from [Guy Taplin's work.][0]
+The photos are from [Guy Taplin's work][0].
 
 [0]: https://messums.com/artists/view/45/Guy_Taplin
