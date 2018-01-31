@@ -4,8 +4,8 @@ description: >-
   The world of work is contradictory. It sends complex messages of what is
   required to the fast track entrant and those in the first phases of their
   career.
-dateModified: '2017-11-01T08:17:50.961Z'
-datePublished: '2017-11-01T08:17:51.818Z'
+dateModified: '2018-01-31T09:23:14.031Z'
+datePublished: '2018-01-31T09:23:14.940Z'
 title: FOR EMERGENT LEADERS
 author: []
 publisher: {}
@@ -23,7 +23,7 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyz0U8qsgMABDUBfg" height="10" style=""></iframe>
 
-## Our Future Leaders is for young executives and professionals in their early twenties to late thirties
+## Our Future Leaders is for young executives, scientists and professionals in their early twenties to late thirties
 
 The world of work is contradictory. It sends complex messages of what is required to the fast track entrant and those in the first phases of their career.
 
