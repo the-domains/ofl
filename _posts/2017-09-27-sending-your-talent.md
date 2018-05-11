@@ -4,8 +4,8 @@ description: >-
   Our organisations need future leaders who can learn to guide and lead with
   wisdom, perspective, organisational acumen and a healthy dose of ‘political
   savviness’.
-dateModified: '2017-11-01T08:18:16.903Z'
-datePublished: '2017-11-01T08:18:17.497Z'
+dateModified: '2018-05-11T09:03:21.540Z'
+datePublished: '2018-05-11T09:03:22.450Z'
 title: SENDING YOUR TALENT
 author: []
 publisher: {}
@@ -47,7 +47,7 @@ The OFL leadership programme was co-developed with the Dutch funding agency for 
 
 ## Next steps
 
-* Want to know more about the [Spring 2018 programme][0]?
+* Want to know more about the [Autumn 2018 programme][0]?
 * View the [OFL programme flyer][1]
 * Arrange a conversation via info@recesscollege.org to find out more
 
@@ -63,5 +63,5 @@ Prof. Stefano Stramigioli, chairman of the Robotics and Mechatronics group at th
 
 
 
-[0]: https://www.dropbox.com/s/fknmmcn85wpxh15/The%20Recess%20College%20-%20Our%20Future%20Leaders%20Programme%20Spring%202018%20flyer.pdf?dl=0 "OFL Spring 2018 programme"
+[0]: https://www.dropbox.com/s/kqfwo1iy3mwnm71/The%20Recess%20College%20-%20Our%20Future%20Leaders%20Programme%20-%20Autumn%202018.pdf?dl=0
 [1]: https://www.dropbox.com/s/zzbdwli6uk0if78/The%20Recess%20College%20-%20Our%20Future%20Leaders%20Programme%20flyer.pdf?dl=0
