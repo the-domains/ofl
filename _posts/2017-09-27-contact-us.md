@@ -1,10 +1,10 @@
 ---
 inFeed: true
 description: >-
-  Jennifer Jones - AdministratorEmail: info@recesscollege.orgTelephone: +44 20
-  7286 4535
-dateModified: '2017-09-29T09:52:30.089Z'
-datePublished: '2017-09-29T09:52:30.585Z'
+  Layla Amber - AdministratorEmail: info@recesscollege.orgTelephone: +44 20 7286
+  4535
+dateModified: '2018-05-11T09:07:39.605Z'
+datePublished: '2018-05-11T09:07:40.320Z'
 title: SIMPLY CURIOUS … OR MORE?
 author: []
 publisher: {}
@@ -22,7 +22,7 @@ _type: Article
 
 ## Contact us
 
-Jennifer Jones - Administrator  
+Layla Amber - Administrator  
 Email: info@recesscollege.org  
 Telephone: +44 20 7286 4535
 
