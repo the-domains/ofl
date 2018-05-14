@@ -1,10 +1,10 @@
 ---
 inFeed: true
 description: >-
-  Layla Amber - AdministratorEmail: info@recesscollege.orgTelephone: +44 20 7286
-  4535
-dateModified: '2018-05-11T09:07:39.605Z'
-datePublished: '2018-05-11T09:07:40.320Z'
+  Layla Amber - AdministratorEmail: info@recesscollege.orgTelephone: +44 7771
+  818 681
+dateModified: '2018-05-14T14:28:45.867Z'
+datePublished: '2018-05-14T14:28:46.696Z'
 title: SIMPLY CURIOUS … OR MORE?
 author: []
 publisher: {}
@@ -24,7 +24,7 @@ _type: Article
 
 Layla Amber - Administrator  
 Email: info@recesscollege.org  
-Telephone: +44 20 7286 4535
+Telephone: +44 7771 818 681
 
 The Recess College  
 1 Macklin House  
