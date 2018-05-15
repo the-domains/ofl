@@ -40,7 +40,8 @@ navigation:
   - name: contact us
     id: d497a7f9-fadb-4ad9-9020-b73f4080ebd4
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0383623-a3cb-4ef0-8ce9-4a2083d1b311.png
 title: Our Future Leaders
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
