@@ -4,8 +4,8 @@ description: >-
   Our organisations need future leaders who can learn to guide and lead with
   wisdom, perspective, organisational acumen and a healthy dose of ‘political
   savviness’.
-dateModified: '2018-05-24T11:48:43.600Z'
-datePublished: '2018-05-24T11:48:44.395Z'
+dateModified: '2018-05-24T11:54:06.966Z'
+datePublished: '2018-05-24T11:54:07.582Z'
 title: SENDING YOUR TALENT
 author: []
 publisher: {}
@@ -23,7 +23,7 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyz0U8qsgMABDUBfg" height="10" style=""></iframe>
 
-### _**"Business, politics, arts, science and commerce need to invest in the future leadership of our world − every bit as much as in those in current positions of seniority".**_
+### _**"Business, politics, arts, science and commerce need to invest in the future leadership of our world − every bit as much as in those in current positions of seniority"**_
 
 ## We need to nurture our future leaders
 
