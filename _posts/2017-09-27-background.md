@@ -7,8 +7,8 @@ description: >-
   with some of the benefits of the Sabbatical in an earlier stage of their
   working lives for a competitive and enduring kick-start in organisational
   life.
-dateModified: '2018-05-24T11:59:51.896Z'
-datePublished: '2018-05-24T11:59:52.426Z'
+dateModified: '2018-05-24T12:00:47.046Z'
+datePublished: '2018-05-24T12:00:47.613Z'
 title: PROGRAMME BACKGROUND
 author: []
 publisher: {}
@@ -29,7 +29,7 @@ _type: Article
 The OFL Programme was set up in collaboration with the funding institution for science and technical research in the Netherlands through an alumnus of The Recess College Sabbatical for senior executives. Its aim was to provide people with some of the benefits of the Sabbatical in an earlier stage of their working lives for a competitive and enduring kick-start in organisational life.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55ce6f41-502d-4cf1-9d75-18f0c05acf88.png)
 
-The first group convened in 2012 at kasteel Oud-Poelgeest. The group consisted of Dutch early-stage academics, but since then it has spread internationally amongst different professional backgrounds.
+The first group convened in 2012\. The group consisted of Dutch early-stage academics, but since then it has spread internationally amongst different professional backgrounds.
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyz0U8qsgMABDUBfg" height="10" style=""></iframe>
 
