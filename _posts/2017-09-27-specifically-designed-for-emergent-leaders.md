@@ -4,8 +4,8 @@ description: >-
   The world of work is contradictory. It sends complex messages of what is
   required to the fast track entrant and those in the first phases of their
   career.
-dateModified: '2018-05-16T13:56:58.764Z'
-datePublished: '2018-05-16T13:56:59.380Z'
+dateModified: '2018-05-24T11:47:26.716Z'
+datePublished: '2018-05-24T11:47:27.429Z'
 title: FOR EMERGENT LEADERS
 author: []
 publisher: {}
@@ -33,11 +33,11 @@ They need to know how to develop the necessary qualities of good judgement for h
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyz0U8qsgMABDUBfg" height="10" style=""></iframe>
 
-## An intensive, lively and rewarding 7-day programme
+## An intensive, lively and rewarding seven-day programme
 
-The first part of the programme is 5-days and held in the Netherlands. It consists of a real-life laboratory of group and organisational processes and a de-briefing on the personal interaction that happened to you in the laboratory.
+The first part of the programme is five-days and held in the Netherlands. It consists of a real-life laboratory with peers and senior leaders on group and organisational processes and de-briefing on the personal interaction that happened to you in the laboratory.
 
-It is followed by a 2-day review six weeks later for participants to reflect about how they were best able to transfer their learning to work and home.
+It is followed by a two-and-a-half day review six weeks later for participants to reflect about how they were best able to transfer their learning to work and home life.
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyz0U8qsgMABDUBfg" height="10" style=""></iframe>
 
