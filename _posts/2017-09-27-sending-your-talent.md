@@ -4,8 +4,8 @@ description: >-
   Our organisations need future leaders who can learn to guide and lead with
   wisdom, perspective, organisational acumen and a healthy dose of ‘political
   savviness’.
-dateModified: '2018-05-16T13:56:44.675Z'
-datePublished: '2018-05-16T13:56:45.169Z'
+dateModified: '2018-05-24T11:48:43.600Z'
+datePublished: '2018-05-24T11:48:44.395Z'
 title: SENDING YOUR TALENT
 author: []
 publisher: {}
@@ -23,7 +23,7 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyz0U8qsgMABDUBfg" height="10" style=""></iframe>
 
-### _**Business, politics, arts, science and commerce need to invest in the future leadership of our world − every bit as much as in those in current positions of seniority.**_
+### _**"Business, politics, arts, science and commerce need to invest in the future leadership of our world − every bit as much as in those in current positions of seniority".**_
 
 ## We need to nurture our future leaders
 
@@ -35,13 +35,13 @@ Future leaders need to be radical, practical and strategic in knowing what to ma
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyz0U8qsgMABDUBfg" height="10" style=""></iframe>
 
-## The Recess College offers a 7-day leadership programme
+## The Recess College offers a seven-day leadership programme
 
 A "living lab" to develop the necessary qualities of good judgement for handling the unpredictability of the future and the uncertainty of other people's reactions. It is intended for young scientists, creatives and professionals who wish to work on their leadership and their understanding of dynamics in organisations.
 
 Participants use the experimental programme to develop their creativity and maturity; to become more ready, perceptive and able in their current position and to better deal with work challenges in their next career steps.
 
-The OFL leadership programme was co-developed with the Dutch funding agency for science and technical research and has been running for over five years. The programme received very high ratings from past participants.
+The OFL leadership programme was co-developed with the Dutch funding agency for science and technical research and has been running for over six years. The programme received very high ratings from past participants.
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyz0U8qsgMABDUBfg" height="10" style=""></iframe>
 
