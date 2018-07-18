@@ -4,8 +4,8 @@ description: >-
   Our organisations need future leaders who can learn to guide and lead with
   wisdom, perspective, organisational acumen and a healthy dose of ‘political
   savviness’.
-dateModified: '2018-07-18T20:39:09.688Z'
-datePublished: '2018-07-18T20:39:10.777Z'
+dateModified: '2018-07-18T20:40:34.654Z'
+datePublished: '2018-07-18T20:40:44.200Z'
 title: SENDING YOUR TALENT
 author: []
 publisher: {}
