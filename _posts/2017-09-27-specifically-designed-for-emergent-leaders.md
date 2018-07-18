@@ -4,8 +4,8 @@ description: >-
   The world of work is contradictory. It sends complex messages of what is
   required to the fast track entrant and those in the first phases of their
   career.
-dateModified: '2018-07-18T20:44:51.320Z'
-datePublished: '2018-07-18T20:44:52.284Z'
+dateModified: '2018-07-18T20:45:47.109Z'
+datePublished: '2018-07-18T20:45:48.209Z'
 title: FOR EMERGENT LEADERS
 author: []
 publisher: {}
@@ -66,8 +66,6 @@ Past participants said about the programme:
 > I see situations from a different perspective. I'm not trying to make it according to others' ideas and requirements, but trying to find ways according to my own thoughts which is difficult for me. I have a higher awareness of the impact I have in groups and how group dynamics happen.
 
 > I'm no longer happy being unhappy ;) That's a tough one to deal with and be consistent in.
-
-> I'm more confident about my capabilities, and I feel empowered. My energy level is much higher than before the course.
 
 > The OFL provides opportunity for real deep change -- when other programmes are usually forgotten in a few weeks. OFL was the programme I did not know I needed.
 
