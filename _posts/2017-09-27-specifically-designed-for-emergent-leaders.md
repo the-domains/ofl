@@ -4,8 +4,8 @@ description: >-
   The world of work is contradictory. It sends complex messages of what is
   required to the fast track entrant and those in the first phases of their
   career.
-dateModified: '2018-07-18T20:37:13.532Z'
-datePublished: '2018-07-18T20:37:14.774Z'
+dateModified: '2018-07-18T20:44:51.320Z'
+datePublished: '2018-07-18T20:44:52.284Z'
 title: FOR EMERGENT LEADERS
 author: []
 publisher: {}
@@ -61,17 +61,17 @@ A focused personal de-briefing helps participants recognise what "happened" to t
 
 Past participants said about the programme:
 
-> I see situations from a different perspective. I'm not trying to make it according to others' ideas and requirements, but trying to find ways according to my own thoughts which is difficult for me.
+> The OFL course opened my eyes to how I work in teams. I expected to learn theory on leadership, but instead I experienced how I operate in teams and organisations. This greatly improved my effectiveness.
 
-> I have a higher awareness of the impact I have in groups and how group dynamics happen.
+> I see situations from a different perspective. I'm not trying to make it according to others' ideas and requirements, but trying to find ways according to my own thoughts which is difficult for me. I have a higher awareness of the impact I have in groups and how group dynamics happen.
 
 > I'm no longer happy being unhappy ;) That's a tough one to deal with and be consistent in.
 
 > I'm more confident about my capabilities, and I feel empowered. My energy level is much higher than before the course.
 
-> The OFL provides opportunity for real deep change -- when other programmes are usually forgotten in a few weeks.
+> The OFL provides opportunity for real deep change -- when other programmes are usually forgotten in a few weeks. OFL was the programme I did not know I needed.
 
 
 
 [0]: https://www.dropbox.com/s/dxcyzt00ax8yo4v/The%20Recess%20College%20-%20Our%20Future%20Leaders%20Programme%20Brochure%20Autumn%202018.pdf?dl=0
-[1]: https://www.dropbox.com/s/26kbriwz05rh88c/The%20Recess%20College%20-%20The%20Living%20Lab%20on%20Organisational%20Life%20Programme%20Flyer.pdf?dl=0
+[1]: https://www.dropbox.com/s/w8go5aadq2mlfja/The%20Recess%20College%20-%20Our%20Future%20Leaders%20Programme%20Flyer.pdf?dl=0
