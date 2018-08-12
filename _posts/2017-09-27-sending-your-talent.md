@@ -4,8 +4,8 @@ description: >-
   Our organisations need future leaders who can learn to guide and lead with
   wisdom, perspective, organisational acumen and a healthy dose of ‘political
   savviness’.
-dateModified: '2018-08-12T15:39:37.482Z'
-datePublished: '2018-08-12T15:39:38.298Z'
+dateModified: '2018-08-12T15:40:46.759Z'
+datePublished: '2018-08-12T15:40:47.334Z'
 title: SENDING YOUR TALENT
 author: []
 publisher: {}
@@ -64,4 +64,4 @@ Prof. Stefano Stramigioli, chairman of the Robotics and Mechatronics group at th
 
 
 [0]: https://www.dropbox.com/s/6qo7x404vvwaupy/The%20Recess%20College%20-%20Our%20Future%20Leaders%20Programme%20Brochure%20Autumn%202018.pdf?dl=0
-[1]: https://www.dropbox.com/s/w8go5aadq2mlfja/The%20Recess%20College%20-%20Our%20Future%20Leaders%20Programme%20Flyer.pdf?dl=0
+[1]: https://www.dropbox.com/s/gh61ypopp415fn7/The%20Recess%20College%20-%20Our%20Future%20Leaders%20Programme%20Flyer.pdf?dl=0
