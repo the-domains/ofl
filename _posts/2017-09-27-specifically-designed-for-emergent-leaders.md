@@ -4,8 +4,8 @@ description: >-
   The world of work is contradictory. It sends complex messages of what is
   required to the fast track entrant and those in the first phases of their
   career.
-dateModified: '2018-08-12T15:39:15.078Z'
-datePublished: '2018-08-12T15:39:15.600Z'
+dateModified: '2018-08-12T15:40:08.103Z'
+datePublished: '2018-08-12T15:40:08.595Z'
 title: FOR EMERGENT LEADERS
 author: []
 publisher: {}
@@ -72,4 +72,4 @@ Past participants said about the programme:
 
 
 [0]: https://www.dropbox.com/s/6qo7x404vvwaupy/The%20Recess%20College%20-%20Our%20Future%20Leaders%20Programme%20Brochure%20Autumn%202018.pdf?dl=0
-[1]: https://www.dropbox.com/s/w8go5aadq2mlfja/The%20Recess%20College%20-%20Our%20Future%20Leaders%20Programme%20Flyer.pdf?dl=0
+[1]: https://www.dropbox.com/s/gh61ypopp415fn7/The%20Recess%20College%20-%20Our%20Future%20Leaders%20Programme%20Flyer.pdf?dl=0
